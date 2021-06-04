@@ -1,2 +1,2 @@
 # TheGame
- Um jogo criado em pythom onde você tera opçoes de questões.
+ Um jogo criado em Python onde você tera opçoes de questões.
