@@ -48,9 +48,9 @@ if opção == '1':
         print('Erro ao Carregar')
     m2 = str(input(''' Qual das resposta abaixo a resposta esta correta:
     6+4*3-6 ÷ 3 = 16
-    (a) 5² * 3 + 5² + raiz 81
-    (b) Raiz 81 + 2^2 + (2 * 8 - 13)
-    (c) (4^4) - (20) ÷ (2) - raiz 81
+    (a) 5² * 3 + 5² + √81
+    (b) √81 + 2^2 + (2 * 8 - 13)
+    (c) (4^4) - (20) ÷ (2) - √81
     (d) (3² + 5) x (3 -3)
     '''))
     if m2 == 'b' or 'B':
@@ -102,10 +102,10 @@ if opção == '3':
         print('Parabéns, você acertou')
     else:
         print('erro ao carregar')
-    país = str(input(''' Nas opções abaixo uma delas os  paises não falam inglês ?
+    país = str(input(''' Nas opções abaixo umas das opções um deles não falam inglês, qual ?
     (a) Macau, EUA, Finlandia, Suiça
     (b) EUA, Canadá, Irlanda, Bahamas
-    (c) Macau, EUA, Finlandia, Suiça
+    (c)
     (d) Austrália, Canadá, Inglaterra
 '''))
 
